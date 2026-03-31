@@ -22,5 +22,8 @@
     "types.d.ts"
   ],
   "type": "module",
-  "types": "types.d.ts"
+  "types": "types.d.ts",
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  }
 }
