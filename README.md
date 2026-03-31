@@ -1,4 +1,4 @@
-# @floating-ui/dom
+# @floating-ui/utils
 
-This is the library to use Floating UI on the web, wrapping `@floating-ui/core`
-with DOM interface logic.
+Utility functions shared across Floating UI packages. You may use these
+functions in your own projects, but are subject to breaking changes.
